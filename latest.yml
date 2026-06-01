@@ -1,8 +1,8 @@
-version: 1.2.11
+version: 1.2.12
 files:
-  - url: Ssamtang-Setup-1.2.11.exe
-    sha512: fIXjK/HDQQjGb7BWtBC+jzX2MpMeE7A2xdN9qvdFgpaqpnPNc+7IHNmBtaj6QtT47w6JdmhlsCLNvndbAZDvbg==
-    size: 96603575
-path: Ssamtang-Setup-1.2.11.exe
-sha512: fIXjK/HDQQjGb7BWtBC+jzX2MpMeE7A2xdN9qvdFgpaqpnPNc+7IHNmBtaj6QtT47w6JdmhlsCLNvndbAZDvbg==
-releaseDate: '2026-05-31T13:55:42.506Z'
+  - url: Ssamtang-Setup-1.2.12.exe
+    sha512: nxaUpa6ieWfXShuPXnioO72XqnAntOLFvTDirmD3n1jcIYFwX+RUvwua9Z6jL/m5AMcijb0yMJ6uKBvfmuTt9w==
+    size: 96606262
+path: Ssamtang-Setup-1.2.12.exe
+sha512: nxaUpa6ieWfXShuPXnioO72XqnAntOLFvTDirmD3n1jcIYFwX+RUvwua9Z6jL/m5AMcijb0yMJ6uKBvfmuTt9w==
+releaseDate: '2026-06-01T04:02:13.655Z'
