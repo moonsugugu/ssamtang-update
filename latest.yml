@@ -1,8 +1,8 @@
-version: 1.3.1
+version: 1.3.2
 files:
-  - url: Ssamtang-Setup-1.3.1.exe
-    sha512: WmAsSiT9UYhXKuxtpcm8fHQFl0n9QOJJv1rzn0Yu92mJdz0vkHGEQ9Ys/fSvf05ujrNIn2Pzpog/kuk6SHKQcw==
-    size: 96608801
-path: Ssamtang-Setup-1.3.1.exe
-sha512: WmAsSiT9UYhXKuxtpcm8fHQFl0n9QOJJv1rzn0Yu92mJdz0vkHGEQ9Ys/fSvf05ujrNIn2Pzpog/kuk6SHKQcw==
-releaseDate: '2026-06-01T05:13:20.889Z'
+  - url: Ssamtang-Setup-1.3.2.exe
+    sha512: FVMz8Oig7raSk5H6we7hdMSMZRdUcv8cnA24/E8u6wOCs4Ji+2iU4bh5ZfVzbJ+QFeyqg6r6nZb7XgzjMOdoHQ==
+    size: 96609296
+path: Ssamtang-Setup-1.3.2.exe
+sha512: FVMz8Oig7raSk5H6we7hdMSMZRdUcv8cnA24/E8u6wOCs4Ji+2iU4bh5ZfVzbJ+QFeyqg6r6nZb7XgzjMOdoHQ==
+releaseDate: '2026-06-01T06:19:29.185Z'
